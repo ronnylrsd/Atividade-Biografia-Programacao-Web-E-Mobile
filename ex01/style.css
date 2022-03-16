@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to bottom, #ff9900 0%, #ffff00 100%);
+  }
+  
+  .h1 {
+    text-align: center;
+  }
+  
+  .p {
+    text-align: center;
+  }
+  
+  .c {
+    text-align: center;
+  }
+  
+  .link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  
+  .foto {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .foto img {
+    border-radius: 50%;
+  }
+  .video {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .audio {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
