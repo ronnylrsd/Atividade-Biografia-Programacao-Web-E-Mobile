@@ -17,7 +17,7 @@
 
 ## 💻 Projeto
 
-O primeiro conversor criado por mim!
+Um exemplo de biografia!
 Tem como objetivo, construir uma história sobre o autor, sobre suas qualidades, cultura e esportes. Facilitando assim, a vida dos interessados.
 
 ## ✨ Tecnologias
